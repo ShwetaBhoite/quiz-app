@@ -1,6 +1,6 @@
 Deployd link- https://quiz-app-ebon.vercel.app/
 
-Loom- loom.com/share/aa42b465016646cba8b5da15f1e06353
+Loom- https://loom.com/share/aa42b465016646cba8b5da15f1e06353
 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
